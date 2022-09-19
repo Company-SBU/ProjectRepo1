@@ -1,1 +1,1 @@
-echo "test line"
+echo "test line and added for merge conflict check"
