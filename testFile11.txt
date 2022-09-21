@@ -1,1 +1,2 @@
 echo "test line and added for merge conflict check"
+echo "for stash checking purpose"
